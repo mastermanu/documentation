@@ -129,6 +129,9 @@ module.exports = {
       // appId: 'app-id', // Optional, if you run the DocSearch crawler on your own
       // algoliaOptions: {}, // Optional, if provided by Algolia
     },
+
+    //new config for auto collapsing sidebar - set to true by default
+    autoCollapse: true,
   },
   presets: [
     [
